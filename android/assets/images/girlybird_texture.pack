@@ -1,0 +1,117 @@
+
+girlybird_texture.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ground
+  rotate: false
+  xy: 1, 799
+  size: 717, 224
+  orig: 717, 224
+  offset: 0, 0
+  index: -1
+pipebottom
+  rotate: false
+  xy: 1, 157
+  size: 104, 640
+  orig: 104, 640
+  offset: 0, 0
+  index: -1
+pipetop
+  rotate: false
+  xy: 107, 157
+  size: 104, 640
+  orig: 104, 640
+  offset: 0, 0
+  index: -1
+scoreboard
+  rotate: false
+  xy: 213, 559
+  size: 468, 238
+  orig: 468, 238
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 213, 427
+  size: 400, 130
+  orig: 400, 130
+  offset: 0, 0
+  index: -1
+gameover
+  rotate: false
+  xy: 213, 325
+  size: 396, 100
+  orig: 396, 100
+  offset: 0, 0
+  index: -1
+getready
+  rotate: false
+  xy: 213, 214
+  size: 387, 109
+  orig: 387, 109
+  offset: 0, 0
+  index: -1
+taptap
+  rotate: false
+  xy: 720, 813
+  size: 228, 210
+  orig: 228, 210
+  offset: 0, 0
+  index: -1
+buttonleaderboard
+  rotate: false
+  xy: 1, 30
+  size: 220, 125
+  orig: 220, 125
+  offset: 0, 0
+  index: -1
+buttonplay
+  rotate: false
+  xy: 223, 87
+  size: 220, 125
+  orig: 220, 125
+  offset: 0, 0
+  index: -1
+buttonrate
+  rotate: false
+  xy: 223, 1
+  size: 140, 84
+  orig: 140, 84
+  offset: 0, 0
+  index: -1
+medalbronze
+  rotate: false
+  xy: 445, 124
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+medalgold
+  rotate: false
+  xy: 615, 469
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+medalplatinum
+  rotate: false
+  xy: 535, 124
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+medalsilver
+  rotate: false
+  xy: 615, 379
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+newbest
+  rotate: false
+  xy: 950, 995
+  size: 64, 28
+  orig: 64, 28
+  offset: 0, 0
+  index: -1
